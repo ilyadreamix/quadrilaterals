@@ -3,11 +3,11 @@
     Jetpack Compose clipped quadrilateral buttons
 </p><br>
 
-<p align="float">
-    <img src="/example/blue.jpg" />
-    <img src="/example/yellow.jpg" />
-    <img src="/example/pink.jpg" />
-    <img src="/example/green.jpg" />
+<p align="middle">
+    <img src="/example/blue.jpg" height="170" />
+    <img src="/example/yellow.jpg" height="170" />
+    <img src="/example/pink.jpg" height="170" />
+    <img src="/example/green.jpg" height="170" />
 </p>
 
 ---
