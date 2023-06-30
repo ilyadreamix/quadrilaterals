@@ -1,0 +1,29 @@
+[versions]
+accompanist-animated-navigation = "0.31.3-beta"
+android-application = "8.1.0-rc01"
+androidx-activity = "1.7.2"
+androidx-compose = "1.6.0-alpha01"
+androidx-compose-compiler = "1.4.7"
+androidx-compose-material3 = "1.2.0-alpha03"
+androidx-core = "1.10.1"
+androidx-lifecycle = "2.6.1"
+androidx-navigation = "2.6.0"
+kotlin-android = "1.8.21"
+
+[libraries]
+accompanist-animated-navigation = { module = "com.google.accompanist:accompanist-navigation-animation", version.ref = "accompanist-animated-navigation" }
+androidx-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "androidx-activity" }
+androidx-compose-material3 = { module = "androidx.compose.material3:material3", version.ref = "androidx-compose-material3" }
+androidx-compose-material-icons-extended = { module = "androidx.compose.material:material-icons-extended", version.ref = "androidx-compose" }
+androidx-compose-ui = { module = "androidx.compose.ui:ui", version.ref = "androidx-compose" }
+androidx-compose-ui-graphics = { module = "androidx.compose.ui:ui-graphics", version.ref = "androidx-compose" }
+androidx-compose-ui-test-manifest = { module = "androidx.compose.ui:ui-test-manifest", version.ref = "androidx-compose" }
+androidx-compose-ui-tooling = { module = "androidx.compose.ui:ui-tooling", version.ref = "androidx-compose" }
+androidx-compose-ui-tooling-preview = { module = "androidx.compose.ui:ui-tooling-preview", version.ref = "androidx-compose" }
+androidx-core-ktx = { module = "androidx.core:core-ktx", version.ref = "androidx-core" }
+androidx-lifecycle-runtime-ktx = { module = "androidx.lifecycle:lifecycle-runtime-ktx", version.ref = "androidx-lifecycle" }
+androidx-navigation-compose = { module = "androidx.navigation:navigation-compose", version.ref = "androidx-navigation" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "android-application" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin-android" }
