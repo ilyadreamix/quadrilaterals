@@ -1,7 +1,7 @@
 <p align="center">
     <strong>Quadrilaterals</strong><br>
     Jetpack Compose clipped quadrilateral buttons
-</p><br>
+</p>
 
 ---
 
@@ -30,4 +30,4 @@ custom shape for the quad and a PathEffect for rounded edges.<br>
 <p align="center">
     <strong>Libraries used</strong><br>
     Compose Material 3, Navigation Compose, Compose Foundation
-</p><br>
+</p>
