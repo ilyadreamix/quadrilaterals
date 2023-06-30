@@ -19,6 +19,7 @@
 ---
 
 <p align="center">
+<strong>Information</strong><br>
 This project demonstrates one of the options for the implementation of buttons in the form of quads
 that can be superimposed one on one.<br>
 Jetpack Compose does not natively support quads (let alone rounded ones), so this project uses a
