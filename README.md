@@ -3,6 +3,12 @@
     Jetpack Compose clipped quadrilateral buttons
 </p><br>
 
+---
+
+<p align="center">
+    <strong>Screenshots</strong><br>
+    Material You theme variants
+</p>
 <p align="middle">
     <img src="/example/blue.jpg" height="170" />
     <img src="/example/yellow.jpg" height="170" />
